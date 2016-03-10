@@ -1,0 +1,39 @@
+/* VARIABLES */
+
+$l-blue: #3CB1F7;
+
+/* UTILITIES */
+
+.text-white {
+    color: #fff;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+li {
+    list-style-type: none;
+}
+
+.bg-l-blue {
+    background-color: $l-blue;
+}
+
+.l-blue {
+    color: $l-blue;
+}
+
+/* PÁGINA */
+
+header {
+    padding: 20px;
+    img {
+        width: 200px;
+        height: 40px;
+    }
+}
